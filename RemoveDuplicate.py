@@ -9,3 +9,4 @@ for x in slist:
 
 print(string)
 print("Total no. of words:", len(string.split()))
+print("Without duplicate:", ' '.join(done))

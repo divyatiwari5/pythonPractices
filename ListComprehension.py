@@ -1,0 +1,1 @@
+l = [i for i in "Founder of Python is Guido Vom Rossum"]
